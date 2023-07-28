@@ -1,3 +1,6 @@
 this is version 1 of my code
 I am changing this txt file to commit 2
 
+git.txt is now change to see changes in github
+
+
